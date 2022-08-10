@@ -1,16 +1,14 @@
 # breakingbad
+ USED 👩🏻‍💻 API -BLOC -DIO
 
-A new Flutter project.
+❤Found this project useful?
 
-## Getting Started
+if you Found this project useful,then please consider giving ia a ⭐ on Github and sharing it with your friend.
 
-This project is a starting point for a Flutter application.
+Demo ⬇
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/76265991/183974613-b37042b4-b71b-4551-a5d8-d3cae78148a7.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/76265991/183974647-5ac122a3-619b-4464-aef7-4252bbdf22d7.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/76265991/183974687-d2d1f73f-3ae8-4e4b-a982-ad8cd429c65d.png)
